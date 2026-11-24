@@ -17,7 +17,7 @@ A LEGO-style toy car assembly with a chassis, steering wheel, and four wheels.
 
 ## ⚙️ 2. Single Cylinder Engine
 
-[![Single Cylinder Engine](images/Single Cylinder_Engine.png)](https://youtu.be/ty6IVKOSx6I?si=thkuoYU9v74krSDF)
+[![Single Cylinder Engine](images/Single Cylinder Engine.png)](https://youtu.be/ty6IVKOSx6I?si=thkuoYU9v74krSDF)
 
 A single cylinder engine assembly with a piston, connecting rod, crankshaft, and crankcase.
 
