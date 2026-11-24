@@ -1,4 +1,4 @@
-# 🛠️ SolidWorks Design Portfolio
+# 🛠️ My SolidWorks Designs
 
 A collection of 3D CAD models designed in **SolidWorks**.
 Click any image to watch the design video on YouTube.
