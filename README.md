@@ -37,8 +37,9 @@ A 3D model of a Shiva Lingam with a base and the three-line Tripundra marking.
 
 ## 📺 YouTube Channel
 
-[Subscribe here](https://www.youtube.com/@Geerthana_13)
+## 📺 YouTube Channel
 
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL?sub_confirmation=1)
 ## 👤 Author
 
 **Geerthana Vimalambikaipakan**
